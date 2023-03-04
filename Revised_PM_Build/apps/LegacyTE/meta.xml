@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="1.0">
+		<name>Legacy TE</name>
+		<coder>Legacy Team</coder>
+		<version>2.5</version>
+		<release_date>201608192105</release_date>
+		<short_description>Legacy TE Launcher</short_description>
+		<long_description>Legacy Tournament Edition is a custom build of Project M that aims to be an alternate option to Project M 3.6 for use in tourneys, smash fests, and netplay matches. TE leaves PM 3.6's character roster, movesets, and universal physics engine untouched while offering additional tourney-legal skins and stages. Project M, the modification of Brawl upon which TE is based, is inspired by Super Smash Bros. Melee's gameplay and brings technical variety to all characters.</long_description>
+	</app>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Legacy TE USB Loader</name>
+	<version>2.5</version>		\\Configurable SD/USB Loader v70r78.11 by oggzee, usptactical, gannon, Dr. Clipper, R2-D2199, FIX94, airline38, Howard, NiTRo THe DeMoN
+	<release_date>20180513</release_date>
+	<coder>Legacy Team</coder>	\\Kirbeast, waffeln
+	<short_description>Legacy TE USB Loader</short_description>
+<long_description>
+Legacy Tournament Edition is a custom build of Project M that aims to be an alternate option to Project M 3.6 for use in tourneys, smash fests, and netplay matches. TE leaves PM 3.6's character roster, movesets, and universal physics engine untouched while offering additional tourney-legal skins and stages. Project M, the modification of Brawl upon which TE is based, is inspired by Super Smash Bros. Melee's gameplay and brings technical variety to all characters.
+
+This is a modified version of CFG USB Loader designed for instantly loading Legacy TE with USB.
+</long_description>
+<ahb_access/>
+<arguments>
+<arg>RSBE01</arg>
+<arg>intro = 0</arg>
+<arg>device = usb</arg>
+<arg>partition = auto</arg>
+<arg>ios = 249</arg>
+<arg>video = system</arg>
+<arg>video_patch = all</arg>
+<arg>language = english</arg>
+<arg>ocarina = 1</arg>
+<arg>hooktype = axframe</arg>
+</arguments>
+</app>
