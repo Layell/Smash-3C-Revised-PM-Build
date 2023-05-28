@@ -13560,6 +13560,9 @@ Effect.pac Roster Expansion System (RSBE.Ver) V2 (Costume-Specific Etc File Supp
 [Legacy TE] Rob Uses Separate Etc Files Per Costume [Yohan1044]
 * 00AD8BBB 00000027
 
+[Project+] Dedede Uses Separate Etc Files Per Costume Set [Motobug, DukeItOut]
+* 00AD8BB8 00000037
+
 [Legacy TE] Hold L/R to inc/dec 1/4 of a character's costume count on the CSS [DukeItOut]
 * 0469A274 7F43D050
 * 0469A384 7F5A1A14

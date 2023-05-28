@@ -1,0 +1,2 @@
+MenuMain_en
+Data 11 is for replay and wifi icons
