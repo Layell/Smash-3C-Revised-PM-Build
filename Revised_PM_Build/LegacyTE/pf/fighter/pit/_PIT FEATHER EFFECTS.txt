@@ -1,0 +1,5 @@
+Subroutine: 29B40
+
+Notable changes in this for 3C is adding black check for 35 and 62
+
+Turning the check that was 62 to 36
