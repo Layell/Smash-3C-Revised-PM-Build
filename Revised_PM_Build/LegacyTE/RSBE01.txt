@@ -13563,6 +13563,9 @@ Effect.pac Roster Expansion System (RSBE.Ver) V2 (Costume-Specific Etc File Supp
 [Project+] Dedede Uses Separate Etc Files Per Costume Set [Motobug, DukeItOut]
 * 00AD8BB8 00000037
 
+[Project+] Mr. Game and Watch has No Entry File [KingJigglypuff]
+* 00AD8042 00000000
+
 [Legacy TE] Hold L/R to inc/dec 1/4 of a character's costume count on the CSS [DukeItOut]
 * 0469A274 7F43D050
 * 0469A384 7F5A1A14
@@ -13721,3 +13724,17 @@ Effect.pac Roster Expansion System (RSBE.Ver) V2 (Costume-Specific Etc File Supp
 * 398C54B4 7D8903A6
 * 4E800420 2804004C
 * 60000000 00000000
+
+Game and Watch Costume Code [Sammi Husky, Desi] (TE numbering (00-19/20-29/30+) by MarioDox)
+* C284D0A4 0000000A
+* 2C1F0012 40820040
+* 90E102F0 A0E6FFFB
+* 2C073030 4082002C
+* 2C170014 41800008
+* 38E03031 2C17001E
+* 41800008 38E03032
+* 2C170028 41800008
+* 38E03033 B0E6FFFB
+* 80E102F0 38800003
+* 60000000 00000000
+-CostumeID 00-19 will load 00, 20-29 will load 01, 30-39 will load 02, 40+ will load 03.
