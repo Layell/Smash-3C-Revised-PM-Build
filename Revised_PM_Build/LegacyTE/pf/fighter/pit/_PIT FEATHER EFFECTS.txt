@@ -1,4 +1,6 @@
-Subroutine: 29B40
+Subroutine: 6F98
+
+Found through AppealLwR or AppealLwL
 
 Notable changes in this for 3C is adding black check for 35 and 62
 
